@@ -107,7 +107,7 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for a wide desktop view for either the index view.
 
-<img src ="./assets/wireframe.png" width='500' height='300'>
+<img src ="./assets/wireframe-small.png" width='500' height='318'>
 
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 

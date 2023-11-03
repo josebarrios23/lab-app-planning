@@ -95,7 +95,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 - Assign yourself to it.
 - Add a due date.
 
-Provide a link to the specific card below.
+Provide a link to the specific card below. (remember to add the link, without quotes, in the README.md inside the parenthesis)
 
 > [Chore card]()
 

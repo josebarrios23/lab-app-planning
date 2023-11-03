@@ -101,17 +101,21 @@ Provide a link to the specific card below.
 
 ### Wireframes
 
-Create three wireframes. You may use a free online tool or draw them on paper (you can either scan them or use your phone to photograph them). You will upload them to this repository.
-
-1. Create a wireframe for the main page that shows an index view (on mobile).
-
-1. Create a wireframe for a wide desktop view for either the index view.
-
 <img src ="./assets/wireframe-small.png" width='500' height='318'>
 
-1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view.
+Create three wireframes. You may use a free online tool or draw them on paper (you can either scan them or use your phone to photograph them). You will upload them to this repository.
 
-<img src ="./assets/form-wireframe.png" width='500' height='318'>
+1. Create a mobile wireframe for the landing page view.
+
+[Mobile Landing Page Wireframe]()
+
+1. Create a landing page wireframe for a wide desktop view.
+
+[Desktop Main Page Wireframe]()
+
+1. Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)
+
+[Form Wireframe]()
 
 ## Minimum Viable Product
 

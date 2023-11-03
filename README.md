@@ -109,9 +109,9 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 <img src ="./assets/wireframe-small.png" width='500' height='318'>
 
-1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
+1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view.
 
-<img src ="./assets/mobile-form.png" width='200' height='400'>
+<img src ="./assets/form-wireframe.png" width='500' height='318'>
 
 ## Minimum Viable Product
 

@@ -105,11 +105,9 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for the main page that shows an index view (on mobile).
 
-<img src ="./assets/wireframe.png" width='200' height='400'>
-
 1. Create a wireframe for a wide desktop view for either the index view.
 
-> ![Index on desktop view]()
+<img src ="./assets/wireframe.png" width='200' height='400'>
 
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 

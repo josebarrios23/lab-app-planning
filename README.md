@@ -105,7 +105,7 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for the main page that shows an index view (on mobile).
 
-> ![Index on mobile view]()
+> ![Index on mobile view](./assets/wireframe.pnd)
 
 1. Create a wireframe for a wide desktop view for either the index view.
 
@@ -124,10 +124,10 @@ Deploy this to GitHub pages.
 ## Reflection
 
 Write down three things that went well for you doing this lab.
- 
- - one
- - two
- - three
+
+- one
+- two
+- three
 
 Write down one thing you'd improve on for next time.
 

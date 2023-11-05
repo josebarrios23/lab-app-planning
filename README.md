@@ -117,12 +117,6 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 [My Form Wireframe Link]()
 
-## Minimum Viable Product
-
-Create an `index.html` file and a `styles.css` file. Using your user stories and wireframes build the responsive `index` view. You should use `lorem ipsum` placeholder text and placeholder images, where applicable. The index view should have between 2 and 5 example resources.
-
-Deploy this to GitHub pages.
-
 ## Reflection
 
 Write down three things that went well for you doing this lab.
@@ -134,3 +128,11 @@ Write down three things that went well for you doing this lab.
 Write down one thing you'd improve on for next time.
 
 > One thing I'd improve ...
+
+## Bonus:
+
+### Minimum Viable Product
+
+Create an `index.html` file and a `styles.css` file. Using your user stories and wireframes build the responsive `index` view. You should use `lorem ipsum` placeholder text and placeholder images, where applicable. The index view should have between 2 and 5 example resources.
+
+Deploy this to GitHub pages.

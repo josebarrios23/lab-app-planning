@@ -105,17 +105,17 @@ Provide a link to the specific card below. (remember to add the link, without qu
 
 Create three wireframes. You may use a free online tool or draw them on paper (you can either scan them or use your phone to photograph them). You will upload them to this repository and save the images in the assets folder. For each link below add the url to the parenthesis. No quotes needed in the url address.
 
-Create a mobile wireframe for the landing page view.
+**Create a mobile wireframe for the landing page view.**
 
-[Mobile Landing Page Wireframe]()
+[My Mobile Landing Page Wireframe Link]()
 
-Create a landing page wireframe for a wide desktop view.
+**Create a landing page wireframe for a wide desktop view.**
 
-[Desktop Main Page Wireframe]()
+[My Desktop Main Page Wireframe Link]()
 
-Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)
+**Create a wireframe for a form (new user, new shipping information, new post, new song, new product etc.) view. (mobile or desktop)**
 
-[Form Wireframe]()
+[My Form Wireframe Link]()
 
 ## Minimum Viable Product
 

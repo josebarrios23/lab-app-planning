@@ -103,7 +103,7 @@ Provide a link to the specific card below. (remember to add the link, without qu
 
 <img src ="./assets/wireframe-small.png" width='500' height='318'>
 
-Create three wireframes. You may use a free online tool or draw them on paper (you can either scan them or use your phone to photograph them). You will upload them to this repository.
+Create three wireframes. You may use a free online tool or draw them on paper (you can either scan them or use your phone to photograph them). You will upload them to this repository and save the images in the assets folder. For each link below add the url to the parenthesis. No quotes needed in the url address.
 
 1. Create a mobile wireframe for the landing page view.
 
